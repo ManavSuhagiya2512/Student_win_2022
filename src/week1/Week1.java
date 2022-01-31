@@ -33,7 +33,6 @@ public class Week1 {
         */
         Scanner sc=new Scanner(System.in);
         System.out.println("Please enter a word");
-        System.out.println("Please enter a word");
         String word = sc.nextLine();
         char[] myLetters = new char[word.length()];
         for (int i = 0; i < myLetters.length; i++) {
