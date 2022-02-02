@@ -44,5 +44,8 @@ public class Student {
     public void setAddress(String Address) {
         this.Address = Address;
     }
+    public void setAddress(String Address) {
+        this.Address = Address;
+    }
 
 }
