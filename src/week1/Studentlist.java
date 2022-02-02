@@ -20,5 +20,9 @@ public class Studentlist {
             System.out.println(studentList[i].getStudentName());
             System.out.println(studentList[i].getStudentId());
         }
+        for (int i = 0; i < studentList.length; i++) {
+            System.out.println(studentList[i].getStudentName());
+            System.out.println(studentList[i].getStudentId());
+        }
     }
 }
